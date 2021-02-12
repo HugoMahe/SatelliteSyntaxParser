@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="2DGraphicCore/src"/>
+	<classpathentry kind="src" path="EventHandler/src"/>
+	<classpathentry kind="src" path="SatelliteEtBaliseWithDeplacementAsDecorator2/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Lazar/Documents/Master/Projet Plantec/SatelliteEtBalise.zip_expanded/SatelliteEtBaliseWithDeplacementAsDecorator2/lib/antlr-4.9-complete.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
